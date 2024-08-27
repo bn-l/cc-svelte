@@ -4,6 +4,7 @@
     "description": "{{ cookiecutter.description }}",
     "private": true,
     "type": "module",
+    "author": "bn-l",
     "engines": {
         "node": ">=22"
     },
