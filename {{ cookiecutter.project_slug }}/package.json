@@ -1,7 +1,7 @@
 {
-    "name": "sdf",
+    "name": "{{ cookiecutter.project_slug }}",
     "version": "0.0.1",
-    "description": "sdf",
+    "description": "{{ cookiecutter.description }}",
     "private": true,
     "type": "module",
     "engines": {
