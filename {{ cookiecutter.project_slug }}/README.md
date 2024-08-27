@@ -1,5 +1,5 @@
 
 
-# sdf
+# {{ cookiecutter.project_name }}
 
-# sdf
+# {{ cookiecutter.description }}
