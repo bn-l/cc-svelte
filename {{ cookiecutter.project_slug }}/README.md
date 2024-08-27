@@ -1,5 +1,5 @@
 
 
-# {{ cookiecutter.project_name }}
+# {{ cookiecutter.project_name | capitalize }}
 
-# {{ cookiecutter.description }}
+{{ cookiecutter.description }}
